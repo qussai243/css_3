@@ -1,0 +1,121 @@
+.*{
+
+    margin-top: 15;
+    margin-right: 0;
+    margin-bottom:2 ;
+    margin-left: 0;
+    padding-top: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    
+ 
+
+}
+
+.all{
+    margin-left:50px;
+  
+}
+
+.iphones{
+   
+   
+    
+    
+ 
+}
+.iphone {
+
+    float:left;
+    width:20%;
+    border: 1px solid gray;
+    padding: 20px;
+    margin: 5px;
+    background-color:azure
+
+  
+   
+ 
+
+}
+
+img {
+    width:90%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+   
+  
+
+}
+
+.cart img{
+    width: 70px;
+    height: 35px;
+}
+
+button{
+    background-color:rgb(19, 88, 225);
+    color: white;
+    margin-left: 10px;
+    width: 75%;
+    padding:10px;
+    
+   
+}
+
+.fa-bag-shopping{
+    padding-right: 5px;
+   outline-color: white;
+    font-size: 20px;
+ 
+}
+
+.fa-heart{
+   color:rgb(19, 88, 225) ;
+border:solid 1px rgb(19, 88, 225);
+padding:13px;
+margin-bottom: 4px;
+display: inline-block;
+}
+
+
+p{
+    margin-left: 12px;
+    color: gray;
+}
+
+.num11{
+    display: inline-block;
+    margin-left: 12px;
+    margin-bottom: 10px;
+}
+
+h4{
+    color: green;
+    display: inline;
+    
+}
+
+h5{
+    color: red;
+    display: inline;
+    text-decoration: line-through;
+    margin-left: 5px;
+}
+
+h3{
+    margin-left: 12px;
+    margin-top: 10px;
+}
+
+.Products{
+   text-decoration: underline blue ;
+   
+
+}
+
+.clearfix{
+    clear: both;
+}
